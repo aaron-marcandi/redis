@@ -1,7 +1,12 @@
-# redis
+# redis daemon
 
-Place the attached files in any devOS mounted folder.
+cd to /mnt/devos
 
-Run redis-install.sh.
+$ git clone https://github.com/itcher/redis
 
-Reboot devOS: redis should be running as a daemon now.
+Run redis-install.sh. 
+    to run the script:
+    $ chmod +x <script name>
+    $ ./<script name>
+
+Reboot
